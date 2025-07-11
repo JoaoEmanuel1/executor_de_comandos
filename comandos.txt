@@ -1,0 +1,6 @@
+UPDATE suatabela set codigo = 0 WHERE suas condições;
+UPDATE suatabela set codigo = 1 WHERE suas condições;
+UPDATE suatabela set codigo = 2 WHERE suas condições;
+UPDATE suatabela set codigo = 3 WHERE suas condições;
+UPDATE suatabela set codigo = 4 WHERE suas condições;
+UPDATE suatabela set codigo = 5 WHERE suas condições;
